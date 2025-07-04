@@ -8,8 +8,7 @@ int main(){
     int num;
     cin>> num;
 
-    // If the number is found, return the index of the number
-    // If the number is found multiple times, return the index of the first occurrence
+   
     int index = -1;
     for (int i = 0;i < size; i++){
         if (numbers[i] == num){
