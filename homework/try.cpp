@@ -5,7 +5,7 @@ int main(){
     cout<<"enter ur age ";
     int age;
     cin>> age;
-    int year 2025;
+    int year = 2025;
 cout <<
         (age < 0 ? "Некоректний вік" :
         age == 0 ? "Ти ще немовля 🙂" :
